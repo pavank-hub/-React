@@ -1,0 +1,16 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#root{
+    height: 120px;
+    padding: 20;
+    background: rgb(111, 183, 228);
+    text-align: center;
+}
